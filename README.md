@@ -1,4 +1,4 @@
-Assignment Angular project 
+Angular project 
 
 
 Github pages link
